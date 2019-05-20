@@ -6,7 +6,7 @@
     background-size: cover; */
     overflow: hidden;
 }
-@media only screen and (max-width: 799px) {
+@media only screen and (max-width: 800px) {
     #home{
         height: auto;
     }
@@ -110,9 +110,9 @@ nav a i.material-icons{
     text-align: center;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 800px) {
     #trip__pack .ppack{
-        margin-top: 20px;
+        margin-top: -30px;
     }
 }
 
@@ -153,6 +153,25 @@ nav a i.material-icons{
 #gallery h4{
     margin-bottom: 40px;
 }
+
+
+/* Contact Session */
+#contact__us{
+    margin: 100px 0;
+}
+
+#contact__us h5{
+    margin-bottom: 30px;
+}
+
+@media only screen and (max-width: 800px) {
+    
+    #contact__us iframe{
+        width: 100%;
+        height: 300px;
+    }
+}
+
 
 /* footer session */
 footer .follow h4{

@@ -3,6 +3,7 @@ $(document).ready(function(){
     $('.parallax').parallax();
     $('.scrollspy').scrollSpy();
     $('.materialboxed').materialbox();
+    $('.datepicker').datepicker();
 
     $('#top-carousel  .owl-carousel').owlCarousel({
         loop: true,
