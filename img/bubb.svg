@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_3">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_3" data-name="Web 1920 – 3" clip-path="url(#clip-Web_1920_3)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <path id="Path_2" data-name="Path 2" d="M3518.8,525.6s334.4-265.6,598.4,272-321.6,334.4-356.8,467.2-192,166.4-227.2,136-180.8-118.4,62.4-348.8-62.4-152-62.4-152-230.4,43.2-172.8-149.6S3518.8,525.6,3518.8,525.6Z" transform="matrix(0.978, -0.208, 0.208, 0.978, -3856.176, 414.91)" fill="rgba(137,49,236,0.22)"/>
+    <rect id="BAR_1" data-name="BAR 1" width="157" height="14" rx="7" transform="translate(39 925)" fill="#fff"/>
+    <rect id="BAR_2" data-name="BAR 2" width="157" height="14" rx="7" transform="translate(39 894)" fill="#e5d1fb"/>
+    <rect id="BAR_3" data-name="BAR 3" width="157" height="14" rx="7" transform="translate(-75 956)" fill="#e5d1fb"/>
+    <rect id="BAR_1-2" data-name="BAR 1" width="157" height="14" rx="7" transform="translate(229 268)" fill="#fff"/>
+    <rect id="BAR_2-2" data-name="BAR 2" width="157" height="14" rx="7" transform="translate(229 237)" fill="#e5d1fb"/>
+    <rect id="BAR_3-2" data-name="BAR 3" width="157" height="14" rx="7" transform="translate(196 299)" fill="#e5d1fb"/>
+  </g>
+</svg>
