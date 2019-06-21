@@ -178,6 +178,15 @@ footer .follow h4{
     position: relative;
     display: inline-block;
 }
+
+.page-footer{
+    /*background: black;*/
+    background: url('../img/footerr.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
 footer .follow h4::before{
     position: absolute;
     content: '';
